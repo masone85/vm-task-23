@@ -68,6 +68,7 @@ a {
 }
 
 .img-2 {
+  vertical-align: top;
   width: 200px;
   float: right;
 }
