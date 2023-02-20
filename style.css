@@ -91,3 +91,7 @@ a {
   line-height: 12px;
   font-size: 15px;
 }
+
+.source-info {
+  color: darkblue;
+}
